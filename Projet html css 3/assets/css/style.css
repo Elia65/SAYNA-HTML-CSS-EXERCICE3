@@ -1,0 +1,82 @@
+/*
+Polices : 
+	font-family: Open Sans, Arial, sans-serif 
+	font-family: Helvetica, Arial, sans-serif, 'Raleway';
+	font-family: Raleway, Arial, sans-serif ;
+	#FFFFFF
+		#27242b
+		#27242b
+		#3d9f96
+		#322f36
+		#f7f7f7
+		#f9f9f9
+		#ababab
+		#7e7e7e
+		#27242b;
+*/
+h1{
+	color:#f7f7f7;
+}
+#article1{
+	color: #f7f7f7;
+}
+h4{
+	color:#3d9f96;
+	font-size: 0.6em;
+}
+body{
+	font-family: Open Sans, Arial, sans-serif;
+}
+nav{
+	display: flex;
+	text-align: center;
+	justify-items: center;
+	justify-content: center;
+	padding: 15pt 20pt 15pt 20pt;
+	background-image: url("assets/img/header_bg.jpg");
+}
+nav ul{
+	display: flex;
+	padding: 0 10% 0 0;
+	align-items: center;
+}
+.lien1 a{
+	color: #f7f7f7;
+	text-decoration: none;
+}
+#logo_sayna{
+	width: 50%;
+	justify-content: center;
+}
+#lien2 a{
+	color: #3d9f96;
+}
+li{
+	list-style: none;
+	list-style-type: none;
+	padding: 0 25pt 0 25pt;
+}
+.promote{
+	text-align: center;
+	background-image: url("assets/img/header_bg.jpg");
+}
+
+button{
+	background-color:#3d9f96;
+	color: white;
+	border: none;
+	border-radius: 20pt;
+	padding: 10pt 30pt;
+}
+.social_media{
+	text-align: center;
+	padding:20pt 0pt 20pt 0pt;
+	background-color:#f7f7f7 ;
+}
+.social_media img{
+	padding: 2%;
+}
+#check{
+	position: relative;
+	text-align: center;
+}

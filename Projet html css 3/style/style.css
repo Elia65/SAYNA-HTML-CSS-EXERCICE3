@@ -1,0 +1,21 @@
+/*corps de la page*/
+
+button {
+    border: none;
+    color: white;
+    padding: 10pt 30pt;
+    border-radius: 20pt;
+    background-color: #3d9f96;
+    margin: 20pt 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+
+/*footer*/
+
+footer {
+    text-align: center;
+}
